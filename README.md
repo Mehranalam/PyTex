@@ -4,7 +4,9 @@ Implementing a typesetting system for mathematical formulas using TeX algorithms
 
 <img src="/app/formula.png" alt="output PyTex">
 
-- [ ] Compiler design part is completed, which you can see from the `/compiler` folder.
+## Compiler 
+
+- [X] Compiler design part is completed, which you can see from the `/compiler` folder.
 
 ```python
 token_specification = [
